@@ -2,7 +2,7 @@ let score = 0;
 
 const scoreContainer = document.getElementById('score-container');
 
-fetch("/data/questions.json")
+fetch("data/questions.json")
 .then(res => res.json())
 .then(data => {
 const container = document.getElementById('quiz-container');

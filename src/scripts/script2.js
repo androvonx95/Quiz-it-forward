@@ -1,4 +1,4 @@
-fetch("/data/questions.json")
+fetch("data/questions.json")
     .then(res => res.json())
     .then(data => {
     const contributorsList = document.getElementById('contributors-list');
