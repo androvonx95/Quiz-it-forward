@@ -50,8 +50,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed and comprehensive step-by-st
 🎉 **Want to see it in action?**  
 👉👉 [**Check out the Quiz now!!**](https://androvonx95.github.io/Quiz-it-forward/) 🎯✨
 
-🎉 **Don’t forget to see all the amazing contributors !**🚀👏
-👥 👉👉 [**Contributors page**](https://androvonx95.github.io/Quiz-it-forward/contributors.html) 🙌💖  
+🎉 **Want to see it in action?**  
+🎉 **Don’t forget to see all the amazing contributors!**🚀👏
+👉👉 [**Contributors page**](https://androvonx95.github.io/Quiz-it-forward/contributors.html) 🙌💖  
 
 ---
 
