@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {
+      "question": "What does HTTP stand for?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High Tech Text Platform",
+        "HTML Transfer Process"
+      ],
+      "answer": "HyperText Transfer Protocol",
+      "contributor": "github_username",
+      "message": "The web is built on HTTP"
+    },
+    
+    {
+      "question": "What is the correct syntax for declaring a variable in JavaScript?",
+      "options": [
+        "var myVar",
+        "let myVar",
+        "both var and let"
+      ],
+      "answer": "both var and let",
+      "contributor": "github_username",
+      "message": "JavaScript has evolved with new keywords"
+    }
+  ]
+}

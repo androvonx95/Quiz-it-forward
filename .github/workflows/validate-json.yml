@@ -1,0 +1,29 @@
+name: Validate JSON
+
+on:
+  pull_request:
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # ✅ Check if questions.json changed
+      - name: Check if questions.json changed
+        id: check_json
+        run: |
+          changed=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -c 'src/data/questions.json')
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      # ✅ Validate JSON syntax using jq
+      - name: Validate questions.json
+        if: steps.check_json.outputs.changed == '1'
+        run: |
+          jq empty src/data/questions.json
+
+      # ✅ Check formatting with Prettier
+      - name: Check JSON formatting
+        if: steps.check_json.outputs.changed == '1'
+        run: |
+          npx prettier --check src/data/questions.json
