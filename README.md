@@ -31,7 +31,7 @@ It's easy!
 2. Add a new quiz question to `src/data/questions.json`.
 3. Submit a pull request 🚀
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step instructions.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed and comprehensive step-by-step instructions.
 
 ---
 
@@ -41,14 +41,17 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for step-by-step instructions.
 - Validating data formats (JSON)
 - Making small but meaningful open source contributions
 - JavaScript basics (DOM, events, data handling)
-- Seeing your name appear on the [Contributors page](contributors.html)! 🧑‍💻
+- Seeing your name appear on the [Contributors page](https://androvonx95.github.io/Quiz-it-forward/contributors.html)! 🧑‍💻
 
 ---
 
 ## 🌐 Live Demo
 
-> Want to see it in action?  
-> Coming soon (or paste your deployed GitHub Pages link here)!
+🎉 **Want to see it in action?**  
+👉👉 [**Check out the Quiz now!!**](https://androvonx95.github.io/Quiz-it-forward/) 🎯✨
+
+**Don’t forget to see all the amazing contributors ! 🚀👏**
+👥 👉👉 [**Contributors page**](https://androvonx95.github.io/Quiz-it-forward/contributors.html) 🙌💖  
 
 ---
 
