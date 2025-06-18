@@ -1,0 +1,24 @@
+body { 
+    font-family: sans-serif; padding: 20px; 
+}
+
+.question { 
+    margin-bottom: 30px; 
+}
+
+.options { 
+    margin: 10px 0; 
+}
+
+.feedback { 
+    font-weight: bold; margin-top: 5px; 
+}
+
+button { 
+    margin-top: 10px; 
+}
+
+a:hover {
+  color: rgb(255, 94, 0);
+  cursor: pointer;
+}

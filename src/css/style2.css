@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+a:hover {
+    color: orange;
+    cursor: pointer;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 8px;
+}

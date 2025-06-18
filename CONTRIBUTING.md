@@ -16,8 +16,8 @@ git clone "url you copied"
 ```
 
 > [!IMPORTANT]
-> In the following steps, when you see `<your-github-username>` your should replace it with your GitHub ID.  
-> For example, if your GitHub ID is `androvonx95`,  
+> In the following steps, when you see `<your-github-username>` your should replace it with your exact GitHub username.  
+> For example, if your GitHub username is `androvonx95`,  
 > `git switch -c add-<your-github-username>` becomes `git switch -c add-androvonx95`  
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
